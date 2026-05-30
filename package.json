@@ -1,0 +1,13 @@
+{
+  "name": "food-request-console",
+  "version": "1.0.0",
+  "description": "Console app for creating food product requests by region.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
